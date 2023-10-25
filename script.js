@@ -6,6 +6,12 @@
 // symbol = 
 // bigInt = 
 
-let a = 'world'
-let b = ''
-console.log();
+let a = 4
+let b = 55
+
+const c = a + b
+
+
+
+console.log(c)
+// console.log(a + b)
